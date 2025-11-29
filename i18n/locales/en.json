@@ -1,0 +1,49 @@
+{
+    "footer": {
+        "message": "Published under the MIT License.",
+        "github": "View on GitHub"
+    },
+    "cart": {
+        "title": "Cart",
+        "description": "Review your selected items",
+        "empty": "Your cart is empty.",
+        "subtotal": "Subtotal",
+        "checkout": "Checkout",
+        "toast": {
+            "add": "Item added to cart.",
+            "update": "Cart updated.",
+            "remove": "Item removed from cart.",
+            "view": "View cart",
+            "error": {
+                "init": "Could not initialize cart.",
+                "get": "Could not retrieve cart.",
+                "add": "Could not add item to cart.",
+                "update": "Could not update item in cart.",
+                "remove": "Could not remove item from cart.",
+                "tryAgain": "Please try again."
+            }
+        }
+    },
+    "search": {
+        "label": "Search",
+        "placeholder": "Search...",
+        "description": "Find products and collections",
+        "queries": "Search for",
+        "products": "Products",
+        "collections": "Collections"
+    },
+    "pagination": {
+        "previous": "Load previous",
+        "next": "Load next"
+    },
+    "price": {
+        "from": "from",
+        "to": "to"
+    },
+    "product": {
+        "addToCart": "Add to cart"
+    },
+    "filters": {
+        "title": "Filters"
+    }
+}
