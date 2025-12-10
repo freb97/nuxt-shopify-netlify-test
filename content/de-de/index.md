@@ -10,7 +10,7 @@ Komponenten wie der Produktslider unten können direkt in Ihren Text eingebettet
 Die frischesten Styles für alle. 
 Schauen Sie sich unsere Unisex-Kollektion mit einer Vielzahl von trendigen und bequemen Kleidungsoptionen an, die für alle geeignet sind.
 
-::product-slider{handle="unisex" first="12"}
+::product-slider{handle="shirts" first="12"}
 ::
 
 ## Schauen Sie sich unsere Kollektionen an

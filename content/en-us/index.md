@@ -10,7 +10,7 @@ Components like the product slider below can be embedded directly in your text.
 The freshest styles for everyone. 
 Check out our unisex collection with a variety of trendy and comfortable clothing options that suit all.
 
-::product-slider{handle="unisex" first="12"}
+::product-slider{handle="shirts" first="12"}
 ::
 
 ## Check out our Collections
