@@ -46,6 +46,17 @@ export default defineNuxtConfig({
                     publicAccessToken: '',
                 },
             },
+
+            webhooks: {
+                secret: '',
+
+                hooks: [
+                    {
+                        topic: 'PRODUCTS_UPDATE',
+                        uri: 'https://nuxt-shopify.netlify.app/api/webhooks/test',
+                    },
+                ],
+            },
         },
     },
 

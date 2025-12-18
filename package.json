@@ -16,7 +16,7 @@
         "@nuxt/image": "^2.0.0",
         "@nuxt/ui": "^4.2.1",
         "@nuxtjs/i18n": "^10.2.1",
-        "@nuxtjs/shopify": "^0.3.7",
+        "@nuxtjs/shopify": "^0.3.8",
         "@vueuse/nuxt": "^14.0.0",
         "better-sqlite3": "^12.4.6",
         "nuxt": "^4.2.1",
