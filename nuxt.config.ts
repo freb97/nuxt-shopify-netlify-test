@@ -45,6 +45,13 @@ export default defineNuxtConfig({
                     apiVersion: '2025-07',
                     publicAccessToken: '',
                 },
+
+                admin: {
+                    apiVersion: '2025-07',
+                    accessToken: '',
+
+                    autoImport: false,
+                },
             },
 
             webhooks: {
